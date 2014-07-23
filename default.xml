@@ -483,7 +483,7 @@
   <project name="AOSPA-armv6/android_device_htc_marvel" path="device/htc/marvel" remote="github" revision="kitkat" />
   <project name="AOSPA-armv6/android_device_htc_msm7x27-common" path="device/htc/msm7x27-common" remote="github" revision="kitkat" />
   <project name="androidarmv6/android_device_qcom_msm7x27" path="device/qcom/msm7x27" remote="cm" revision="cm-11.0" />
-  <project name="SimplicityCM/android_kernel_htc_msm7x27" path="kernel/htc/msm7x27" remote="cm" revision="cm-11.0" />
+  <project name="androidarmv6/android_kernel_htc_msm7x27" path="kernel/htc/msm7x27" remote="cm" revision="cm-11.0" />
   <project name="androidarmv6/android_vendor_qcom_msm7x27" path="vendor/qcom/msm7x27" remote="cm" revision="cm-11.0" />
-  <project name="SimplicityCM/proprietary_vendor_htc" path="vendor/htc" remote="cm" revision="cm-11.0" />
+  <project name="androidarmv6/android_vendor_htc" path="vendor/htc" remote="cm" revision="cm-11.0" />
 </manifest>
